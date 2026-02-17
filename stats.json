@@ -1,6 +1,6 @@
 {
   "economy": [
-    {"name": "Player1", "value": "$10,000"},
+    {"name": "PlayerGG", "value": "$10,000"},
     {"name": "Player2", "value": "$5,000"}
   ],
   "bedwars": [
@@ -15,4 +15,5 @@
     {"name": "Player1", "value": "12 Deaths"},
     {"name": "Player2", "value": "45 Deaths"}
   ]
+
 }
