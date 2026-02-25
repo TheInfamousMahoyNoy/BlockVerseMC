@@ -1,33 +1,53 @@
 {
   "economy": [
     {
-      "player": "Mahoy",
-      "balance": 5000
+      "player": "00000000-0000-0000-0009-01f0bc1e66d2",
+      "balance": "0"
     },
     {
-      "player": "Steve",
-      "balance": 2000
+      "player": "00000000-0000-0000-0009-01f26ba760d7",
+      "balance": "0"
+    },
+    {
+      "player": "00000000-0000-0000-0009-01f784b7d6e3",
+      "balance": "0"
+    },
+    {
+      "player": "00000000-0000-0000-0009-01f9a722d378",
+      "balance": "0"
+    },
+    {
+      "player": "a46544fc-e181-43c7-83ed-5ebf7ad682e8",
+      "balance": "89.56"
+    },
+    {
+      "player": "d259bc67-226f-4cf8-be51-5464c18b430c",
+      "balance": "1007.91"
+    },
+    {
+      "player": "e72b0193-eea3-44b4-af44-68a8f69c936e",
+      "balance": "957.25"
     }
   ],
   "bedwars": [
     {
-      "player": "Mahoy",
-      "wins": 10
-    },
-    {
-      "player": "Alex",
-      "wins": 3
+      "player": "bw_stats_players",
+      "wins": 0
     }
   ],
   "islands": [
     {
-      "player": "Mahoy",
-      "value": 1500
+      "player": "Unknown",
+      "value": 0
     },
     {
-      "player": "Bob",
-      "value": 200
+      "player": "Unknown",
+      "value": 0
+    },
+    {
+      "player": "Unknown",
+      "value": 0
     }
   ],
-  "last_updated": "Updated by Python script"
+  "last_updated": "Auto-updated by Python script"
 }
