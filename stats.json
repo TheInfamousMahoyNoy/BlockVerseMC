@@ -47,16 +47,19 @@
   ],
   "islands": [
     {
-      "player": "Unknown",
-      "value": 0
+      "uuid": "175d5fbc-e686-4288-a91e-553e239c225e",
+      "value": 7,
+      "phase": "Plains"
     },
     {
-      "player": "Unknown",
-      "value": 0
+      "uuid": "648ab79a-fafc-4e67-84e3-b7dc64265a7d",
+      "value": 11,
+      "phase": "Plains"
     },
     {
-      "player": "Unknown",
-      "value": 0
+      "uuid": "e964dd91-09ae-453e-9be7-7b3516e6ef85",
+      "value": 131,
+      "phase": "Plains"
     }
   ],
   "last_updated": "Auto-updated by Python script"
