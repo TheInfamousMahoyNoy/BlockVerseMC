@@ -1,6 +1,33 @@
 {
-  "economy": [],
-  "bedwars": [],
-  "islands": [],
-  "last_updated": "2026-02-25 13:24:28"
+  "economy": [
+    {
+      "player": "Mahoy",
+      "balance": 5000
+    },
+    {
+      "player": "Steve",
+      "balance": 2000
+    }
+  ],
+  "bedwars": [
+    {
+      "player": "Mahoy",
+      "wins": 10
+    },
+    {
+      "player": "Alex",
+      "wins": 3
+    }
+  ],
+  "islands": [
+    {
+      "player": "Mahoy",
+      "value": 1500
+    },
+    {
+      "player": "Bob",
+      "value": 200
+    }
+  ],
+  "last_updated": "Updated by Python script"
 }
