@@ -312,5 +312,161 @@
       "value": 0
     }
   ],
-  "last_updated": "2026-03-22 13:27:19"
+  "items_crafted": [
+    {
+      "uuid": "e72b0193-eea3-44b4-af44-68a8f69c936e",
+      "name": "K10andMom",
+      "value": 3739
+    },
+    {
+      "uuid": "a46544fc-e181-43c7-83ed-5ebf7ad682e8",
+      "name": "InfamousMahoyNoy",
+      "value": 735
+    },
+    {
+      "uuid": "2c42ce6f-36ad-44fe-80b5-c6ae12e872e7",
+      "name": "newt434",
+      "value": 604
+    },
+    {
+      "uuid": "c7396afd-cdea-4fe0-80d1-aa651a9753a7",
+      "name": "TheCrozzzz",
+      "value": 115
+    },
+    {
+      "uuid": "d259bc67-226f-4cf8-be51-5464c18b430c",
+      "name": "TootsiePop16",
+      "value": 33
+    },
+    {
+      "uuid": "00000000-0000-0000-0009-01f9a722d378",
+      "name": "[B]MrBubMan2016",
+      "value": 8
+    },
+    {
+      "uuid": "00000000-0000-0000-0009-01f0bc1e66d2",
+      "name": "[B]Mahoy_Noy9892",
+      "value": 0
+    },
+    {
+      "uuid": "00000000-0000-0000-0009-01f26ba760d7",
+      "name": "00000000-0000-0000-0009-01f26ba760d7",
+      "value": 0
+    },
+    {
+      "uuid": "00000000-0000-0000-0009-01f784b7d6e3",
+      "name": "[B]JadaBeary",
+      "value": 0
+    },
+    {
+      "uuid": "4d856ece-98cc-347e-8105-d7afcaef1412",
+      "name": "InfamousMahoyNoy",
+      "value": 0
+    }
+  ],
+  "blocks_broken": [
+    {
+      "uuid": "e72b0193-eea3-44b4-af44-68a8f69c936e",
+      "name": "K10andMom",
+      "value": 13765
+    },
+    {
+      "uuid": "2c42ce6f-36ad-44fe-80b5-c6ae12e872e7",
+      "name": "newt434",
+      "value": 2941
+    },
+    {
+      "uuid": "a46544fc-e181-43c7-83ed-5ebf7ad682e8",
+      "name": "InfamousMahoyNoy",
+      "value": 2550
+    },
+    {
+      "uuid": "d259bc67-226f-4cf8-be51-5464c18b430c",
+      "name": "TootsiePop16",
+      "value": 465
+    },
+    {
+      "uuid": "c7396afd-cdea-4fe0-80d1-aa651a9753a7",
+      "name": "TheCrozzzz",
+      "value": 108
+    },
+    {
+      "uuid": "00000000-0000-0000-0009-01f9a722d378",
+      "name": "[B]MrBubMan2016",
+      "value": 7
+    },
+    {
+      "uuid": "00000000-0000-0000-0009-01f784b7d6e3",
+      "name": "[B]JadaBeary",
+      "value": 4
+    },
+    {
+      "uuid": "00000000-0000-0000-0009-01f0bc1e66d2",
+      "name": "[B]Mahoy_Noy9892",
+      "value": 0
+    },
+    {
+      "uuid": "00000000-0000-0000-0009-01f26ba760d7",
+      "name": "00000000-0000-0000-0009-01f26ba760d7",
+      "value": 0
+    },
+    {
+      "uuid": "4d856ece-98cc-347e-8105-d7afcaef1412",
+      "name": "InfamousMahoyNoy",
+      "value": 0
+    }
+  ],
+  "distance_traveled": [
+    {
+      "uuid": "e72b0193-eea3-44b4-af44-68a8f69c936e",
+      "name": "K10andMom",
+      "value": 98376.83
+    },
+    {
+      "uuid": "a46544fc-e181-43c7-83ed-5ebf7ad682e8",
+      "name": "InfamousMahoyNoy",
+      "value": 86900.38
+    },
+    {
+      "uuid": "d259bc67-226f-4cf8-be51-5464c18b430c",
+      "name": "TootsiePop16",
+      "value": 26415.31
+    },
+    {
+      "uuid": "2c42ce6f-36ad-44fe-80b5-c6ae12e872e7",
+      "name": "newt434",
+      "value": 9664.71
+    },
+    {
+      "uuid": "00000000-0000-0000-0009-01f9a722d378",
+      "name": "[B]MrBubMan2016",
+      "value": 723.67
+    },
+    {
+      "uuid": "c7396afd-cdea-4fe0-80d1-aa651a9753a7",
+      "name": "TheCrozzzz",
+      "value": 553.17
+    },
+    {
+      "uuid": "00000000-0000-0000-0009-01f0bc1e66d2",
+      "name": "[B]Mahoy_Noy9892",
+      "value": 538.64
+    },
+    {
+      "uuid": "00000000-0000-0000-0009-01f784b7d6e3",
+      "name": "[B]JadaBeary",
+      "value": 314.48
+    },
+    {
+      "uuid": "4d856ece-98cc-347e-8105-d7afcaef1412",
+      "name": "InfamousMahoyNoy",
+      "value": 27.74
+    },
+    {
+      "uuid": "00000000-0000-0000-0009-01f26ba760d7",
+      "name": "00000000-0000-0000-0009-01f26ba760d7",
+      "value": 0.0
+    }
+  ],
+  "last_updated": "2026-03-22 14:35:24"
 }
