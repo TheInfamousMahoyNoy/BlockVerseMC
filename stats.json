@@ -17,8 +17,20 @@
       "balance": "0"
     },
     {
+      "uuid": "2c42ce6f-36ad-44fe-80b5-c6ae12e872e7",
+      "balance": "0"
+    },
+    {
+      "uuid": "4d856ece-98cc-347e-8105-d7afcaef1412",
+      "balance": "0"
+    },
+    {
       "uuid": "a46544fc-e181-43c7-83ed-5ebf7ad682e8",
-      "balance": "1000000"
+      "balance": "20020.0"
+    },
+    {
+      "uuid": "c7396afd-cdea-4fe0-80d1-aa651a9753a7",
+      "balance": "0"
     },
     {
       "uuid": "d259bc67-226f-4cf8-be51-5464c18b430c",
@@ -26,29 +38,41 @@
     },
     {
       "uuid": "e72b0193-eea3-44b4-af44-68a8f69c936e",
-      "balance": "957.25"
+      "balance": "1037.25"
     }
   ],
   "bedwars": [
     {
       "uuid": "a46544fc-e181-43c7-83ed-5ebf7ad682e8",
       "name": "InfamousMahoyNoy",
-      "wins": 14,
+      "wins": 15,
       "kills": 13,
-      "beds": 14
+      "beds": 16
+    },
+    {
+      "uuid": "e72b0193-eea3-44b4-af44-68a8f69c936e",
+      "name": "K10andMom",
+      "wins": 4,
+      "kills": 0,
+      "beds": 2
     },
     {
       "uuid": "d259bc67-226f-4cf8-be51-5464c18b430c",
       "name": "TootsiePop16",
       "wins": 4,
       "kills": 3,
-      "beds": 0
+      "beds": 1
     }
   ],
   "islands": [
     {
       "island_uuid": "175d5fbc-e686-4288-a91e-553e239c225e",
       "block_value": 7,
+      "phase": "Plains"
+    },
+    {
+      "island_uuid": "34f5cf3d-8144-4038-9cb4-d2fa806c9d05",
+      "block_value": 5,
       "phase": "Plains"
     },
     {
@@ -60,51 +84,13 @@
       "island_uuid": "e964dd91-09ae-453e-9be7-7b3516e6ef85",
       "block_value": 131,
       "phase": "Plains"
+    },
+    {
+      "island_uuid": "eaa782cd-17be-458c-89b0-35d2900fc236",
+      "block_value": 108,
+      "phase": "Plains"
     }
   ],
-  "playtime": [
-    {
-      "uuid": "e72b0193-eea3-44b4-af44-68a8f69c936e",
-      "name": "K10andMom",
-      "playtime_hours": 11.13,
-      "sessions": 21,
-      "activity_index": 1.5993094562159054
-    },
-    {
-      "uuid": "00000000-0000-0000-0009-01f784b7d6e3",
-      "name": "[B]JadaBeary",
-      "playtime_hours": 0.02,
-      "sessions": 3,
-      "activity_index": 0.08530554442963645
-    },
-    {
-      "uuid": "00000000-0000-0000-0009-01f9a722d378",
-      "name": "[B]MrBubMan2016",
-      "playtime_hours": 0.49,
-      "sessions": 26,
-      "activity_index": 1.2758847815319347
-    },
-    {
-      "uuid": "a46544fc-e181-43c7-83ed-5ebf7ad682e8",
-      "name": "InfamousMahoyNoy",
-      "playtime_hours": 7.72,
-      "sessions": 99,
-      "activity_index": 3.875642820608801
-    },
-    {
-      "uuid": "00000000-0000-0000-0009-01f0bc1e66d2",
-      "name": "[B]Mahoy_Noy9892",
-      "playtime_hours": 0.1,
-      "sessions": 9,
-      "activity_index": 0.46039016322805004
-    },
-    {
-      "uuid": "d259bc67-226f-4cf8-be51-5464c18b430c",
-      "name": "TootsiePop16",
-      "playtime_hours": 4.35,
-      "sessions": 14,
-      "activity_index": 1.3909210447022184
-    }
-  ],
-  "last_updated": "2026-03-03 16:51:08"
+  "playtime": [],
+  "last_updated": "2026-03-21 22:36:56"
 }
