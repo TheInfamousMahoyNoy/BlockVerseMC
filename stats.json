@@ -25,12 +25,16 @@
       "balance": "0"
     },
     {
+      "uuid": "9772cab2-1aa8-49cb-b06d-0130e8ee21ef",
+      "balance": "0"
+    },
+    {
       "uuid": "a46544fc-e181-43c7-83ed-5ebf7ad682e8",
-      "balance": "20085.0"
+      "balance": "20145.0"
     },
     {
       "uuid": "c7396afd-cdea-4fe0-80d1-aa651a9753a7",
-      "balance": "0"
+      "balance": "3.74"
     },
     {
       "uuid": "d259bc67-226f-4cf8-be51-5464c18b430c",
@@ -43,25 +47,32 @@
   ],
   "bedwars": [
     {
-      "uuid": "e72b0193-eea3-44b4-af44-68a8f69c936e",
-      "name": "K10andMom",
-      "wins": 4,
-      "kills": 0,
-      "beds": 3
-    },
-    {
-      "uuid": "a46544fc-e181-43c7-83ed-5ebf7ad682e8",
-      "name": "InfamousMahoyNoy",
-      "wins": 18,
-      "kills": 17,
-      "beds": 22
-    },
-    {
       "uuid": "d259bc67-226f-4cf8-be51-5464c18b430c",
       "name": "TootsiePop16",
       "wins": 4,
       "kills": 3,
       "beds": 2
+    },
+    {
+      "uuid": "e72b0193-eea3-44b4-af44-68a8f69c936e",
+      "name": "K10andMom",
+      "wins": 4,
+      "kills": 0,
+      "beds": 4
+    },
+    {
+      "uuid": "a46544fc-e181-43c7-83ed-5ebf7ad682e8",
+      "name": "InfamousMahoyNoy",
+      "wins": 21,
+      "kills": 19,
+      "beds": 25
+    },
+    {
+      "uuid": "c7396afd-cdea-4fe0-80d1-aa651a9753a7",
+      "name": "TheCrozzzz",
+      "wins": 0,
+      "kills": 0,
+      "beds": 0
     }
   ],
   "islands": [
@@ -87,89 +98,25 @@
     },
     {
       "island_uuid": "eaa782cd-17be-458c-89b0-35d2900fc236",
-      "block_value": 108,
+      "block_value": 163,
       "phase": "Plains"
     }
   ],
-  "playtime": [
-    {
-      "uuid": "d259bc67-226f-4cf8-be51-5464c18b430c",
-      "name": "TootsiePop16",
-      "playtime_hours": 5.05,
-      "sessions": 16,
-      "activity_index": 1.1441627281218492
-    },
-    {
-      "uuid": "e72b0193-eea3-44b4-af44-68a8f69c936e",
-      "name": "K10andMom",
-      "playtime_hours": 12.56,
-      "sessions": 24,
-      "activity_index": 1.3621066787012355
-    },
-    {
-      "uuid": "a46544fc-e181-43c7-83ed-5ebf7ad682e8",
-      "name": "InfamousMahoyNoy",
-      "playtime_hours": 12.87,
-      "sessions": 115,
-      "activity_index": 2.8173920686661558
-    },
-    {
-      "uuid": "2c42ce6f-36ad-44fe-80b5-c6ae12e872e7",
-      "name": "newt434",
-      "playtime_hours": 2.55,
-      "sessions": 2,
-      "activity_index": 1.481561464125107
-    },
-    {
-      "uuid": "00000000-0000-0000-0009-01f784b7d6e3",
-      "name": "[B]JadaBeary",
-      "playtime_hours": 0.11,
-      "sessions": 9,
-      "activity_index": 0.4111632499764557
-    },
-    {
-      "uuid": "c7396afd-cdea-4fe0-80d1-aa651a9753a7",
-      "name": "TheCrozzzz",
-      "playtime_hours": 0.31,
-      "sessions": 4,
-      "activity_index": 0.8256355741022192
-    },
-    {
-      "uuid": "00000000-0000-0000-0009-01f9a722d378",
-      "name": "[B]MrBubMan2016",
-      "playtime_hours": 0.51,
-      "sessions": 29,
-      "activity_index": 0.06409657316043926
-    },
-    {
-      "uuid": "4d856ece-98cc-347e-8105-d7afcaef1412",
-      "name": "InfamousMahoyNoy",
-      "playtime_hours": 0.02,
-      "sessions": 1,
-      "activity_index": 0.08014728257988768
-    },
-    {
-      "uuid": "00000000-0000-0000-0009-01f0bc1e66d2",
-      "name": "[B]Mahoy_Noy9892",
-      "playtime_hours": 0.15,
-      "sessions": 12,
-      "activity_index": 0.22661932473260027
-    }
-  ],
+  "playtime": [],
   "player_kills": [
     {
       "uuid": "a46544fc-e181-43c7-83ed-5ebf7ad682e8",
-      "name": "InfamousMahoyNoy",
-      "value": 30
+      "name": "a46544fc-e181-43c7-83ed-5ebf7ad682e8",
+      "value": 33
     },
     {
       "uuid": "d259bc67-226f-4cf8-be51-5464c18b430c",
-      "name": "TootsiePop16",
+      "name": "d259bc67-226f-4cf8-be51-5464c18b430c",
       "value": 3
     },
     {
       "uuid": "00000000-0000-0000-0009-01f0bc1e66d2",
-      "name": "[B]Mahoy_Noy9892",
+      "name": "00000000-0000-0000-0009-01f0bc1e66d2",
       "value": 0
     },
     {
@@ -179,64 +126,69 @@
     },
     {
       "uuid": "00000000-0000-0000-0009-01f784b7d6e3",
-      "name": "[B]JadaBeary",
+      "name": "00000000-0000-0000-0009-01f784b7d6e3",
       "value": 0
     },
     {
       "uuid": "00000000-0000-0000-0009-01f9a722d378",
-      "name": "[B]MrBubMan2016",
+      "name": "00000000-0000-0000-0009-01f9a722d378",
       "value": 0
     },
     {
       "uuid": "2c42ce6f-36ad-44fe-80b5-c6ae12e872e7",
-      "name": "newt434",
+      "name": "2c42ce6f-36ad-44fe-80b5-c6ae12e872e7",
       "value": 0
     },
     {
       "uuid": "4d856ece-98cc-347e-8105-d7afcaef1412",
-      "name": "InfamousMahoyNoy",
+      "name": "4d856ece-98cc-347e-8105-d7afcaef1412",
+      "value": 0
+    },
+    {
+      "uuid": "9772cab2-1aa8-49cb-b06d-0130e8ee21ef",
+      "name": "9772cab2-1aa8-49cb-b06d-0130e8ee21ef",
       "value": 0
     },
     {
       "uuid": "c7396afd-cdea-4fe0-80d1-aa651a9753a7",
-      "name": "TheCrozzzz",
+      "name": "c7396afd-cdea-4fe0-80d1-aa651a9753a7",
       "value": 0
     },
     {
       "uuid": "e72b0193-eea3-44b4-af44-68a8f69c936e",
-      "name": "K10andMom",
+      "name": "e72b0193-eea3-44b4-af44-68a8f69c936e",
       "value": 0
     }
   ],
   "mob_kills": [
     {
       "uuid": "a46544fc-e181-43c7-83ed-5ebf7ad682e8",
-      "name": "InfamousMahoyNoy",
+      "name": "a46544fc-e181-43c7-83ed-5ebf7ad682e8",
       "value": 143
     },
     {
       "uuid": "e72b0193-eea3-44b4-af44-68a8f69c936e",
-      "name": "K10andMom",
+      "name": "e72b0193-eea3-44b4-af44-68a8f69c936e",
       "value": 79
     },
     {
       "uuid": "2c42ce6f-36ad-44fe-80b5-c6ae12e872e7",
-      "name": "newt434",
+      "name": "2c42ce6f-36ad-44fe-80b5-c6ae12e872e7",
       "value": 19
     },
     {
       "uuid": "d259bc67-226f-4cf8-be51-5464c18b430c",
-      "name": "TootsiePop16",
+      "name": "d259bc67-226f-4cf8-be51-5464c18b430c",
       "value": 14
     },
     {
       "uuid": "c7396afd-cdea-4fe0-80d1-aa651a9753a7",
-      "name": "TheCrozzzz",
-      "value": 3
+      "name": "c7396afd-cdea-4fe0-80d1-aa651a9753a7",
+      "value": 8
     },
     {
       "uuid": "00000000-0000-0000-0009-01f0bc1e66d2",
-      "name": "[B]Mahoy_Noy9892",
+      "name": "00000000-0000-0000-0009-01f0bc1e66d2",
       "value": 0
     },
     {
@@ -246,59 +198,69 @@
     },
     {
       "uuid": "00000000-0000-0000-0009-01f784b7d6e3",
-      "name": "[B]JadaBeary",
+      "name": "00000000-0000-0000-0009-01f784b7d6e3",
       "value": 0
     },
     {
       "uuid": "00000000-0000-0000-0009-01f9a722d378",
-      "name": "[B]MrBubMan2016",
+      "name": "00000000-0000-0000-0009-01f9a722d378",
       "value": 0
     },
     {
       "uuid": "4d856ece-98cc-347e-8105-d7afcaef1412",
-      "name": "InfamousMahoyNoy",
+      "name": "4d856ece-98cc-347e-8105-d7afcaef1412",
+      "value": 0
+    },
+    {
+      "uuid": "9772cab2-1aa8-49cb-b06d-0130e8ee21ef",
+      "name": "9772cab2-1aa8-49cb-b06d-0130e8ee21ef",
       "value": 0
     }
   ],
   "deaths": [
     {
       "uuid": "d259bc67-226f-4cf8-be51-5464c18b430c",
-      "name": "TootsiePop16",
+      "name": "d259bc67-226f-4cf8-be51-5464c18b430c",
       "value": 124
     },
     {
       "uuid": "a46544fc-e181-43c7-83ed-5ebf7ad682e8",
-      "name": "InfamousMahoyNoy",
+      "name": "a46544fc-e181-43c7-83ed-5ebf7ad682e8",
       "value": 49
     },
     {
       "uuid": "00000000-0000-0000-0009-01f9a722d378",
-      "name": "[B]MrBubMan2016",
+      "name": "00000000-0000-0000-0009-01f9a722d378",
       "value": 24
     },
     {
+      "uuid": "e72b0193-eea3-44b4-af44-68a8f69c936e",
+      "name": "e72b0193-eea3-44b4-af44-68a8f69c936e",
+      "value": 15
+    },
+    {
       "uuid": "00000000-0000-0000-0009-01f0bc1e66d2",
-      "name": "[B]Mahoy_Noy9892",
+      "name": "00000000-0000-0000-0009-01f0bc1e66d2",
       "value": 12
     },
     {
-      "uuid": "e72b0193-eea3-44b4-af44-68a8f69c936e",
-      "name": "K10andMom",
-      "value": 11
-    },
-    {
       "uuid": "c7396afd-cdea-4fe0-80d1-aa651a9753a7",
-      "name": "TheCrozzzz",
+      "name": "c7396afd-cdea-4fe0-80d1-aa651a9753a7",
       "value": 3
     },
     {
       "uuid": "00000000-0000-0000-0009-01f784b7d6e3",
-      "name": "[B]JadaBeary",
-      "value": 1
+      "name": "00000000-0000-0000-0009-01f784b7d6e3",
+      "value": 2
     },
     {
       "uuid": "2c42ce6f-36ad-44fe-80b5-c6ae12e872e7",
-      "name": "newt434",
+      "name": "2c42ce6f-36ad-44fe-80b5-c6ae12e872e7",
+      "value": 1
+    },
+    {
+      "uuid": "9772cab2-1aa8-49cb-b06d-0130e8ee21ef",
+      "name": "9772cab2-1aa8-49cb-b06d-0130e8ee21ef",
       "value": 1
     },
     {
@@ -308,44 +270,44 @@
     },
     {
       "uuid": "4d856ece-98cc-347e-8105-d7afcaef1412",
-      "name": "InfamousMahoyNoy",
+      "name": "4d856ece-98cc-347e-8105-d7afcaef1412",
       "value": 0
     }
   ],
   "items_crafted": [
     {
       "uuid": "e72b0193-eea3-44b4-af44-68a8f69c936e",
-      "name": "K10andMom",
+      "name": "e72b0193-eea3-44b4-af44-68a8f69c936e",
       "value": 3739
     },
     {
       "uuid": "a46544fc-e181-43c7-83ed-5ebf7ad682e8",
-      "name": "InfamousMahoyNoy",
+      "name": "a46544fc-e181-43c7-83ed-5ebf7ad682e8",
       "value": 735
     },
     {
       "uuid": "2c42ce6f-36ad-44fe-80b5-c6ae12e872e7",
-      "name": "newt434",
+      "name": "2c42ce6f-36ad-44fe-80b5-c6ae12e872e7",
       "value": 604
     },
     {
       "uuid": "c7396afd-cdea-4fe0-80d1-aa651a9753a7",
-      "name": "TheCrozzzz",
-      "value": 115
+      "name": "c7396afd-cdea-4fe0-80d1-aa651a9753a7",
+      "value": 229
     },
     {
       "uuid": "d259bc67-226f-4cf8-be51-5464c18b430c",
-      "name": "TootsiePop16",
+      "name": "d259bc67-226f-4cf8-be51-5464c18b430c",
       "value": 33
     },
     {
       "uuid": "00000000-0000-0000-0009-01f9a722d378",
-      "name": "[B]MrBubMan2016",
+      "name": "00000000-0000-0000-0009-01f9a722d378",
       "value": 8
     },
     {
       "uuid": "00000000-0000-0000-0009-01f0bc1e66d2",
-      "name": "[B]Mahoy_Noy9892",
+      "name": "00000000-0000-0000-0009-01f0bc1e66d2",
       "value": 0
     },
     {
@@ -355,54 +317,64 @@
     },
     {
       "uuid": "00000000-0000-0000-0009-01f784b7d6e3",
-      "name": "[B]JadaBeary",
+      "name": "00000000-0000-0000-0009-01f784b7d6e3",
       "value": 0
     },
     {
       "uuid": "4d856ece-98cc-347e-8105-d7afcaef1412",
-      "name": "InfamousMahoyNoy",
+      "name": "4d856ece-98cc-347e-8105-d7afcaef1412",
+      "value": 0
+    },
+    {
+      "uuid": "9772cab2-1aa8-49cb-b06d-0130e8ee21ef",
+      "name": "9772cab2-1aa8-49cb-b06d-0130e8ee21ef",
       "value": 0
     }
   ],
   "blocks_broken": [
     {
       "uuid": "e72b0193-eea3-44b4-af44-68a8f69c936e",
-      "name": "K10andMom",
-      "value": 13765
+      "name": "e72b0193-eea3-44b4-af44-68a8f69c936e",
+      "value": 13802
     },
     {
       "uuid": "2c42ce6f-36ad-44fe-80b5-c6ae12e872e7",
-      "name": "newt434",
+      "name": "2c42ce6f-36ad-44fe-80b5-c6ae12e872e7",
       "value": 2941
     },
     {
       "uuid": "a46544fc-e181-43c7-83ed-5ebf7ad682e8",
-      "name": "InfamousMahoyNoy",
-      "value": 2550
+      "name": "a46544fc-e181-43c7-83ed-5ebf7ad682e8",
+      "value": 2605
     },
     {
       "uuid": "d259bc67-226f-4cf8-be51-5464c18b430c",
-      "name": "TootsiePop16",
+      "name": "d259bc67-226f-4cf8-be51-5464c18b430c",
       "value": 465
     },
     {
       "uuid": "c7396afd-cdea-4fe0-80d1-aa651a9753a7",
-      "name": "TheCrozzzz",
-      "value": 108
+      "name": "c7396afd-cdea-4fe0-80d1-aa651a9753a7",
+      "value": 280
     },
     {
       "uuid": "00000000-0000-0000-0009-01f9a722d378",
-      "name": "[B]MrBubMan2016",
+      "name": "00000000-0000-0000-0009-01f9a722d378",
       "value": 7
     },
     {
       "uuid": "00000000-0000-0000-0009-01f784b7d6e3",
-      "name": "[B]JadaBeary",
+      "name": "00000000-0000-0000-0009-01f784b7d6e3",
       "value": 4
     },
     {
+      "uuid": "9772cab2-1aa8-49cb-b06d-0130e8ee21ef",
+      "name": "9772cab2-1aa8-49cb-b06d-0130e8ee21ef",
+      "value": 1
+    },
+    {
       "uuid": "00000000-0000-0000-0009-01f0bc1e66d2",
-      "name": "[B]Mahoy_Noy9892",
+      "name": "00000000-0000-0000-0009-01f0bc1e66d2",
       "value": 0
     },
     {
@@ -412,54 +384,59 @@
     },
     {
       "uuid": "4d856ece-98cc-347e-8105-d7afcaef1412",
-      "name": "InfamousMahoyNoy",
+      "name": "4d856ece-98cc-347e-8105-d7afcaef1412",
       "value": 0
     }
   ],
   "distance_traveled": [
     {
       "uuid": "e72b0193-eea3-44b4-af44-68a8f69c936e",
-      "name": "K10andMom",
-      "value": 98376.83
+      "name": "e72b0193-eea3-44b4-af44-68a8f69c936e",
+      "value": 101868.25
     },
     {
       "uuid": "a46544fc-e181-43c7-83ed-5ebf7ad682e8",
-      "name": "InfamousMahoyNoy",
-      "value": 86900.38
+      "name": "a46544fc-e181-43c7-83ed-5ebf7ad682e8",
+      "value": 91972.56
     },
     {
       "uuid": "d259bc67-226f-4cf8-be51-5464c18b430c",
-      "name": "TootsiePop16",
+      "name": "d259bc67-226f-4cf8-be51-5464c18b430c",
       "value": 26415.31
     },
     {
       "uuid": "2c42ce6f-36ad-44fe-80b5-c6ae12e872e7",
-      "name": "newt434",
+      "name": "2c42ce6f-36ad-44fe-80b5-c6ae12e872e7",
       "value": 9664.71
     },
     {
-      "uuid": "00000000-0000-0000-0009-01f9a722d378",
-      "name": "[B]MrBubMan2016",
-      "value": 723.67
+      "uuid": "c7396afd-cdea-4fe0-80d1-aa651a9753a7",
+      "name": "c7396afd-cdea-4fe0-80d1-aa651a9753a7",
+      "value": 5869.21
     },
     {
-      "uuid": "c7396afd-cdea-4fe0-80d1-aa651a9753a7",
-      "name": "TheCrozzzz",
-      "value": 553.17
+      "uuid": "00000000-0000-0000-0009-01f9a722d378",
+      "name": "00000000-0000-0000-0009-01f9a722d378",
+      "value": 735.3
     },
     {
       "uuid": "00000000-0000-0000-0009-01f0bc1e66d2",
-      "name": "[B]Mahoy_Noy9892",
+      "name": "00000000-0000-0000-0009-01f0bc1e66d2",
       "value": 538.64
     },
     {
       "uuid": "00000000-0000-0000-0009-01f784b7d6e3",
-      "name": "[B]JadaBeary",
-      "value": 314.48
+      "name": "00000000-0000-0000-0009-01f784b7d6e3",
+      "value": 487.66
+    },
+    {
+      "uuid": "9772cab2-1aa8-49cb-b06d-0130e8ee21ef",
+      "name": "9772cab2-1aa8-49cb-b06d-0130e8ee21ef",
+      "value": 346.91
     },
     {
       "uuid": "4d856ece-98cc-347e-8105-d7afcaef1412",
-      "name": "InfamousMahoyNoy",
+      "name": "4d856ece-98cc-347e-8105-d7afcaef1412",
       "value": 27.74
     },
     {
@@ -468,5 +445,5 @@
       "value": 0.0
     }
   ],
-  "last_updated": "2026-03-22 14:35:24"
+  "last_updated": "2026-04-04 12:30:57"
 }
